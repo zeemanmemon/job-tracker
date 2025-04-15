@@ -54,5 +54,3 @@ Files are named like:
 * Add PDF export support
 * Tagging or favorites
 * Dark mode toggle
-
-**Made by Zeeman Memon** 
