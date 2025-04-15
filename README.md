@@ -1,5 +1,3 @@
- Job Tracker App body { font-family: Arial, sans-serif; margin: 2rem; line-height: 1.6; background-color: #f9f9f9; color: #333; } h1, h2 { color: #2c3e50; } pre { background: #eee; padding: 1rem; overflow-x: auto; border-radius: 5px; } code { background: #eee; padding: 2px 4px; border-radius: 3px; } .author { margin-top: 3rem; font-style: italic; } 
-
 🧾 Job Tracker App (Python + Tkinter)
 =====================================
 
